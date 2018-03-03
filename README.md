@@ -1,4 +1,5 @@
 # get-extremums
+[![Build Status](https://travis-ci.org/cedced19/get-extremums.svg?branch=master)](https://travis-ci.org/cedced19/get-extremums)
 A module to get extremums for a value in an array of objects.
 
 ## Usage
